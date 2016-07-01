@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'bradentc_movie_management'
+
+// bradentc_movie_management.movies
+
+[{"movieId":"1","title":"Titanic","price":"11.00","studio":"Paramount","year":"1999"}, {"movieId":"3","title":"Avatar","price":"7.33","studio":"Fox","year":"2005"}, {"movieId":"30","title":"Star Wars: Empire Strikes Back","price":"21.12","studio":"Lucas Films","year":"1978"}, {"movieId":"31","title":"Lord of the Rings","price":"5.72","studio":"Paramount","year":"2005"}, {"movieId":"33","title":"Tropic Thunder","price":"8.99","studio":"Warner","year":"2008"}, {"movieId":"34","title":"She's the Man","price":"1.50","studio":"Warner Bros","year":"2006"}, {"movieId":"35","title":"Wreck-it Ralph","price":"11.22","studio":"Disney","year":"2012"}]

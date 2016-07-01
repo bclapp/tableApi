@@ -1,0 +1,16 @@
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\tableApi.dll.config
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\tableApi.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\tableApi.pdb
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\Newtonsoft.Json.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Net.Http.Formatting.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Web.Http.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Web.Http.WebHost.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\Newtonsoft.Json.xml
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Net.Http.Formatting.xml
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Web.Http.xml
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\bin\System.Web.Http.WebHost.xml
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\obj\Debug\tableApi.csprojResolveAssemblyReference.cache
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\obj\Debug\tableApi.dll
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\obj\Debug\tableApi.pdb
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\obj\Debug\tableApi.Properties.Resources.resources
+c:\users\braden\documents\visual studio 2013\Projects\tableApi\tableApi\obj\Debug\tableApi.csproj.GenerateResource.Cache
